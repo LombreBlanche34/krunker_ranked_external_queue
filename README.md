@@ -1,5 +1,6 @@
 # External Ranked Queue
-
+![example_1](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Auth_page.png?raw=true)
+![example_2](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Queue_page.png?raw=true)
 ### How to i use this
 If u dont know what u are doing, just select ur client and click "Get Token" (be sure to be logged in ur client first). If ur client is not on the list, u can add it with the "settings" tab after "queue".
 
