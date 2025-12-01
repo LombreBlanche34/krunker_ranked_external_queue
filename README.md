@@ -11,3 +11,5 @@ If u are a pro and u know what u are doing, past ur AT in the last field.
 The faceit sound will be play if a match is found, but keep an eye on it !
 
 Inspired by https://github.com/slavcp/glorp
+
+Discord support: https://discord.gg/9aUJK9yAq9
