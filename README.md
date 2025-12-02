@@ -1,3 +1,4 @@
+[![Latest Downloads](https://img.shields.io/github/downloads/LombreBlanche34/krunker_ranked_external_queue/latest/total)](https://github.com/LombreBlanche34/krunker_ranked_external_queue/releases/latest)
 # External Ranked Queue
 ![login](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Auth_page.png?raw=true)
 ![queue](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Queue_page.png?raw=true)
