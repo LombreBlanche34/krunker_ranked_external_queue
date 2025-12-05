@@ -3,10 +3,12 @@
 ![login](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Auth_page.png?raw=true)
 ![queue](https://github.com/LombreBlanche34/krunker_ranked_external_queue/blob/main/Queue_page.png?raw=true)
 
-### How do i use this
-If its your first time you can use "Auto Detect Token" (need to be logged into ur client), but if krunker start to cry like wantid prime (getting disconnected, impossible to join a ranked queue) you have to use "Manual Login"
+# HOW TO LOGIN
+There are two ways to connect to your account: via client or via login:
 
-- support 2FA
+- Client (not stable): Launch your client, make sure you are logged in and use the “detect token” function with the correct client. If your client is not in the list, you can add it in the “Settings” tab.
+
+- Login (stable): Enter your username and password. The 2FA code will be requested if necessary. If the credentials are correct, you will be automatically redirected to the “Queue” tab.
 
 The faceit sound will be play if a match is found, but keep an eye on it !
 
